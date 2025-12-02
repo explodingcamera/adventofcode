@@ -1,2 +1,7 @@
-**/*.txt
+**/input*
 **/target
+/bun.lock
+/node_modules
+/tsconfig.json
+/biome.json
+/package.json
